@@ -10,6 +10,17 @@
       "instrument": "바이올린",
       "duration": "50분",
       "content": "기초 연습"
+    },
+    {
+      "date": "2024-11-05",
+      "dayOfWeek": "월",
+      "time": "14:59",
+      "studentId": 1,
+      "teacherId": 2,
+      "instrument": "기타",
+      "duration": "60",
+      "content": "기초학습",
+      "id": 3
     }
   ]
 }
