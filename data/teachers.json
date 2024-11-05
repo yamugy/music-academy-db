@@ -6,6 +6,13 @@
       "instrument": "바이올린",
       "phone": "010-7777-6666",
       "experience": "8년"
+    },
+    {
+      "name": "정환욱",
+      "instrument": "기타",
+      "phone": "01001001010",
+      "experience": "0",
+      "id": 3
     }
   ]
 }
