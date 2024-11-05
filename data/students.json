@@ -1,12 +1,6 @@
 {
   "students": [
     {
-      "id": 2,
-      "name": "이서연",
-      "instrument": "바이올린",
-      "phone": "010-8765-4321"
-    },
-    {
       "name": "홍길동",
       "instrument": "기타,통기타",
       "phone": "010-999-9999",
