@@ -1,3 +1,10 @@
 {
-  "students": []
+  "students": [
+    {
+      "name": "정민경",
+      "instrument": "기타",
+      "phone": "91991991991",
+      "id": 1
+    }
+  ]
 }
