@@ -1,1 +1,26 @@
- 
+{
+  "classes": [
+    {
+      "id": 1,
+      "date": "2024-03-15",
+      "dayOfWeek": "금",
+      "time": "14:00",
+      "studentId": 1,
+      "teacherId": 1,
+      "instrument": "피아노",
+      "duration": "50분",
+      "content": "소나타 연습"
+    },
+    {
+      "id": 2,
+      "date": "2024-03-15",
+      "dayOfWeek": "금",
+      "time": "15:00",
+      "studentId": 2,
+      "teacherId": 2,
+      "instrument": "바이올린",
+      "duration": "50분",
+      "content": "기초 연습"
+    }
+  ]
+} 
