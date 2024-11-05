@@ -21,6 +21,17 @@
       "duration": "60",
       "content": "기초학습",
       "id": 3
+    },
+    {
+      "date": "2024-11-01",
+      "dayOfWeek": "금",
+      "time": "05:00",
+      "studentId": 1,
+      "teacherId": 2,
+      "instrument": "기타",
+      "duration": "60",
+      "content": "44",
+      "id": 4
     }
   ]
 }
