@@ -1,14 +1,5 @@
- {
+{
   "payments": [
-    {
-      "id": 1,
-      "date": "2024-03-01",
-      "studentId": 1,
-      "amount": 300000,
-      "method": "카드",
-      "status": "완료",
-      "memo": "3월 수업료"
-    },
     {
       "id": 2,
       "date": "2024-03-01",
