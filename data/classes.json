@@ -32,6 +32,17 @@
       "duration": "60",
       "content": "22222",
       "id": 4
+    },
+    {
+      "date": "2024-11-06",
+      "dayOfWeek": "수",
+      "time": "18:00",
+      "studentId": 1,
+      "teacherId": 1,
+      "instrument": "기타",
+      "duration": "60분",
+      "content": "",
+      "id": 5
     }
   ]
 }
