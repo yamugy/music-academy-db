@@ -1,3 +1,11 @@
 {
-  "teachers": []
+  "teachers": [
+    {
+      "name": "정환욱",
+      "instrument": "기타",
+      "phone": "010-123-1234",
+      "bankAccount": "농협 873-293-2929",
+      "id": 1
+    }
+  ]
 }
