@@ -32,17 +32,6 @@
       "duration": "60",
       "content": "111111",
       "id": 4
-    },
-    {
-      "date": "2024-11-05",
-      "dayOfWeek": "화",
-      "time": "12:00",
-      "studentId": 1,
-      "teacherId": 2,
-      "instrument": "",
-      "duration": "50",
-      "content": "",
-      "id": 5
     }
   ]
 }
