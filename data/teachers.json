@@ -1,11 +1,18 @@
 {
   "teachers": [
     {
-      "name": "정환욱",
-      "instrument": "기타",
-      "phone": "010-123-1234",
-      "bankAccount": "농협 873-293-292966",
-      "id": 1
+      "id": 1,
+      "name": "박선생",
+      "instrument": "피아노",
+      "phone": "010-9999-8888",
+      "bankAccount": "신한은행 110-123-456789"
+    },
+    {
+      "id": 2,
+      "name": "김선생",
+      "instrument": "바이올린",
+      "phone": "010-7777-6666",
+      "bankAccount": "국민은행 123-12-123456"
     }
   ]
 }

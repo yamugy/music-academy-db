@@ -1,48 +1,26 @@
 {
   "classes": [
     {
+      "id": 1,
+      "date": "2024-03-15",
+      "dayOfWeek": "금",
+      "time": "14:00",
+      "studentId": 1,
+      "teacherId": 1,
+      "instrument": "피아노",
+      "duration": "50분",
+      "content": "소나타 연습"
+    },
+    {
       "id": 2,
       "date": "2024-03-15",
       "dayOfWeek": "금",
       "time": "15:00",
       "studentId": 2,
-      "teacherId": 1,
+      "teacherId": 2,
       "instrument": "바이올린",
       "duration": "50분",
       "content": "기초 연습"
-    },
-    {
-      "date": "2024-11-05",
-      "dayOfWeek": "월",
-      "time": "14:59",
-      "studentId": 1,
-      "teacherId": 2,
-      "instrument": "기타",
-      "duration": "90분",
-      "content": "기초학습",
-      "id": 3
-    },
-    {
-      "date": "2024-11-01",
-      "dayOfWeek": "금",
-      "time": "05:00",
-      "studentId": 1,
-      "teacherId": 2,
-      "instrument": "기타",
-      "duration": "60",
-      "content": "22222",
-      "id": 4
-    },
-    {
-      "date": "2024-11-06",
-      "dayOfWeek": "수",
-      "time": "18:00",
-      "studentId": 1,
-      "teacherId": 1,
-      "instrument": "기타",
-      "duration": "60분",
-      "content": "",
-      "id": 5
     }
   ]
-}
+} 

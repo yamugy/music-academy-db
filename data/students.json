@@ -1,10 +1,16 @@
 {
-  "students": [
-    {
-      "name": "정민경",
-      "instrument": "기타",
-      "phone": "000000000",
-      "id": 1
-    }
-  ]
-}
+    "students": [
+      {
+        "id": 1,
+        "name": "김민준",
+        "instrument": "피아노",
+        "phone": "010-1234-5678"
+      },
+      {
+        "id": 2,
+        "name": "이서연",
+        "instrument": "바이올린",
+        "phone": "010-8765-4321"
+      }
+    ]
+  }
