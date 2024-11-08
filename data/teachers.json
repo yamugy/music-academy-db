@@ -1,11 +1,3 @@
 {
-  "teachers": [
-    {
-      "id": 2,
-      "name": "김선생",
-      "instrument": "바이올린",
-      "phone": "010-7777-6666",
-      "bankAccount": "국민은행 123-12-123456"
-    }
-  ]
+  "teachers": []
 }
