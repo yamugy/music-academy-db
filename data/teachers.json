@@ -1,13 +1,6 @@
 {
   "teachers": [
     {
-      "id": 1,
-      "name": "박선생",
-      "instrument": "피아노",
-      "phone": "010-9999-8888",
-      "bankAccount": "신한은행 110-123-456789"
-    },
-    {
       "id": 2,
       "name": "김선생",
       "instrument": "바이올린",
