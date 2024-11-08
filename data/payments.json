@@ -1,13 +1,3 @@
 {
-  "payments": [
-    {
-      "id": 2,
-      "date": "2024-03-01",
-      "studentId": 2,
-      "amount": 300000,
-      "method": "현금",
-      "status": "완료",
-      "memo": "3월 수업료"
-    }
-  ]
+  "payments": []
 }
