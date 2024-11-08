@@ -1,3 +1,10 @@
 {
-  "students": []
+  "students": [
+    {
+      "name": "d",
+      "instrument": "d",
+      "phone": "123213213",
+      "id": 1
+    }
+  ]
 }
